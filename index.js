@@ -41,6 +41,8 @@ play("How many sisters does Joey have?","7")
 play("Who hates Thanksgiving","chandler")
 play("What is the name of Phoebe's most popular song","Smelly Cats")
 play("Who says the last line of the series ?","Chandler")
+play("Who got stuck in leather pants ?","ross")
+
 
 console.log("Thanks for playing the game "+name)
 console.log("Your final score is "+score)
